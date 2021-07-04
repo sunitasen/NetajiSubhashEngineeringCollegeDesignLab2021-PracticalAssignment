@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  
+}
+body, html {
+  height: 100%;
+  margin: 0;
+  background-color: #f8cdd4 !important;
+  background-position: right 0px bottom;
+  background-image: url('./assets/bg.png') ;
+    background-repeat: no-repeat;
+}
+
+.form {
+  width: 400px;
+}
